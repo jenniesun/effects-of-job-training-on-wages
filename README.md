@@ -1,5 +1,5 @@
 # effects-of-job-training-on-wages
-This is a analytics project I did with my team for our Data Modeling and Representation class at Duke University.
+This is an analytics project I did with my team for our Data Modeling and Representation class at Duke University.
 
 ## The project
 Introduction
